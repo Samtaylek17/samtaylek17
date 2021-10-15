@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Temitayo
+
+I am a full stack developer, a Javascript fanatic and sometimes a UI/UX Designer. When I'm not coding, I usually play games or hangout with friends
 
 <!--
 **Samtaylek17/samtaylek17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=samtaylek17&show_icons=true&theme=radical&count_private=true)](https://github.com/samtaylek17/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samtaylek17&layout=compact&show_icons=true&theme=radical&count_private=true)](https://github.com/samtaylek17/github-readme-stats)
+
+
