@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Temitayo
 
-I am a full stack developer, a Javascript fanatic and sometimes a UI/UX Designer. When I'm not coding, I usually play games or hangout with friends
+I am a full stack developer, a Javascript fanatic and sometimes a UI/UX Designer. When I'm not coding, I usually play games or hangout with friends, oh! I almost forgot, I love cooking too 👀
 
 <!--
 **Samtaylek17/samtaylek17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
