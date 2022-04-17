@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 
 
+[![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=samtaylek17&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samtaylek17&langs_count=10&layout=compact&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Temitayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=curlybraces)](https://github.com/anuraghazra/github-readme-stats)
