@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-[![Temitayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=curlybraces)](https://github.com/anuraghazra/github-readme-stats)
+[![Temitayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=solosmart)](https://github.com/anuraghazra/github-readme-stats)
